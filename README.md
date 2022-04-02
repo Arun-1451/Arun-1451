@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there friends👋
 
 <!--
 **Arun-1451/Arun-1451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
